@@ -1,0 +1,5 @@
+wav,gt,wer
+EN2002b.wav,I think I can take notes this time, I guess. What? I'll take notes,I think I can take notes this time, I guess. What? I'll take notes,5.0 
+EN2002c.wav,Does it squeeze in like that? Right. Okay. Did you want to take a look at the comments?,Does it squeeze in like that? Right. Okay. Did you want to take a look at the comments?,8.0
+
+Average WER = 6.5%

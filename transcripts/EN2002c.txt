@@ -1,0 +1,37 @@
+Does it squeeze in like that?  
+Right.  
+Okay.  
+Did you want to take a look at the comments?  
+Did we get seven out of 10 for the other one?  
+Yeah.  
+Okay.  
+Okay.  
+Right.  
+Did you want to take a look at the comments?  
+Oh.  
+Okay.  
+So.  
+I think there is just because the the topic box and all this is is based on well, what's it called? text area or something. It has some sort of highlighting stuff there. So you should probably look at the  
+I'm not sure if it's inbuilt though to be honest.  
+You haven't had to build any new windows to do that, sort of thing, like other topics or whatever, right?  
+Well, okay.  
+Um, when we talk about speaker characterization, how are we accessing the list of speakers? That's what I want to talk about actually. Um, the speaker The data processing is fine, but I don't particularly want to do the the the gooey for it.  
+You don't. Okay. If some if you want to do that, then tell me how you want the data presented how the the because the at the moment the the the there is I've created two classes, one that represents speakers, one that represents the meetings, and the meetings, and the information about both is contained within each object, so  
+and then they write objects, and the objects contain all the information about the meetings and the speakers. So, the the who the speaker is that are at the meeting and the amounts they speak, and then the averages are contained with the speakers. So, there's two separate classes to you.  
+Okay.  
+And they're they're two different objects and you can recall it you can write the writes the objects and then you call the objects back and they those returned objects have all the information that they need and then you can call methods to return whatever you want.  
+Or everything but that's why I wanted to know how how what format do you want the data to come back in?  
+cuz it can come back as almost anything.  
+Yeah. I know that might also help like when he was talking about like have an architecture that things are going to plug into. I mean so the things are all modular, I mean it would be good idea if we use that same idea for anything else we do or what else are we doing? Yeah. Even the searches or whatever, you know, just Yeah. Any sort of thing. I mean search results if they're all in a predictable thing with a name, certain properties or list of properties, vector or whatever.  
+Yeah. So as I can have it so that it returns you a is that at the moment the main data structures are hash tables for the meetings that say it's got one that says percent it's called percent talk, one percent noise and one is percent participation. Do you see what I mean? So and then it's got inside it's got a link it's got a it's got the speaker's name and then it's got their percentage for that thing, so it can either come back as a you can have the hash table or you can have it returned as a vector and it will say noise, it's just a string it's noise x percent.  
+It will say a vector that's I don't know whatever you can either have it you can have it like an embedded in vector or array of strings and each one represents one person or whatever that's why I wanted to know how how what's the easiest way to have the data.  
+So, um I have you already calculated all this data or are you supposed to do that later? Yeah, basically calculated it, yeah.  
+Okay. Um, and it all stores as objects. So, they're object files.  
+Um, which means that you just recal recall the, and a null constructor and call the load. thing and call it that and you can create a list of them or a vector of them or whatever you want to do with it.  
+And then or just call them one at a time to populate a window, but that's what I wanted to know how how what format do you want the data to come back in.  
+So.  
+So, um, we all We all whenever we open a window for one speaker, So, all of this is all that's calculated as well, stored the speaker objects.  
+Oh, is it? Yeah, that's that's easy. I'm quite amusing, actually. The the influences are I've lived in Germany for six months. Don't know if that had any effect. Spent six months talking to Brits. Oh yeah, yeah.  
+Yeah. So, then, all that's calculated as well. All I have to do is get the dialogue acts. I don't think that'll be difficult. Yeah, that's all calculated as well.  
+So, then, does this, how is how is this box populated?  
+Is

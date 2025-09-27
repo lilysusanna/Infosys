@@ -1,0 +1,2 @@
+System Summary,Reference Summary,ROUGE-1 F1,ROUGE-L F1,BLEU
+summary_output.txt,reference_output.txt,0.6818,0.6818,0.2659

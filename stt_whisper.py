@@ -1,47 +1,76 @@
 import whisper
-import argparse
-import json
 import os
-import torch
-from config import WHISPER_MODEL
-from utils import write_text
+import json
+try:
+    import torch  # optional but preferred for device detection
+except Exception:
+    torch = None
 
+# Default model
+WHISPER_MODEL = os.environ.get("WHISPER_MODEL", "small")  # e.g., "base", "small", "medium", "large"
 
-# Global cache to avoid reloading Whisper model for every transcription
-_WHISPER_MODEL_CACHE = {}
 
 def _detect_device():
-    # Allow explicit override via environment variable MODEL_DEVICE (e.g. 'cuda', 'cpu')
-    dev = os.environ.get('MODEL_DEVICE')
-    if dev:
-        return dev
-    # otherwise prefer CUDA if available
+    if os.environ.get("MODEL_DEVICE"):
+        return os.environ.get("MODEL_DEVICE")
     try:
-        if torch.cuda.is_available():
-            return 'cuda'
+        if torch is not None and torch.cuda.is_available():
+            return "cuda"
     except Exception:
         pass
-    return 'cpu'
+    return "cpu"
+
 
 def transcribe_whisper(audio_path, model_name=WHISPER_MODEL, out_json=None, device=None):
+    """Transcribe an audio file using Whisper and return a dict with 'text' and 'segments'."""
+    if not os.path.isfile(audio_path):
+        raise FileNotFoundError(f"Audio file not found: {audio_path}")
+
     device = device or _detect_device()
-    # Cache key by (model_name, device)
-    cache_key = (model_name, device)
-    model = _WHISPER_MODEL_CACHE.get(cache_key)
-    if model is None:
-        # whisper.load_model accepts device string like 'cuda' or 'cpu'
+    # Load model with graceful fallbacks (CUDA -> CPU; model name fallback)
+    try:
         model = whisper.load_model(model_name, device=device)
-        _WHISPER_MODEL_CACHE[cache_key] = model
-    # prefer fp16 on GPU for speed
-    # model.transcribe will handle device selection internally
-    result = model.transcribe(audio_path)
+    except Exception:
+        try:
+            # fallback to CPU if GPU load failed
+            model = whisper.load_model(model_name, device="cpu")
+            device = "cpu"
+        except Exception:
+            # fallback to a smaller model on CPU
+            fallback_name = "base" if model_name != "base" else "small"
+            model = whisper.load_model(fallback_name, device="cpu")
+            device = "cpu"
+
+    forced_lang = os.environ.get("WHISPER_LANGUAGE")
+    try:
+        result = model.transcribe(
+            audio_path,
+            language=forced_lang if forced_lang else None,
+            fp16=(device != "cpu"),
+        )
+    except Exception:
+        # retry with defaults
+        result = model.transcribe(audio_path)
+
+    if "segments" not in result:
+        result["segments"] = [{"start": 0, "end": 0, "text": result.get("text", "")}]
+
     if out_json:
-        write_text(out_json, json.dumps(result, indent=2))
+        try:
+            with open(out_json, "w", encoding="utf-8") as f:
+                json.dump(result, f, ensure_ascii=False, indent=2)
+        except Exception:
+            pass
     return result
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser()
-    parser.add_argument("audio")
-    parser.add_argument("--out", default=None)
-    args = parser.parse_args()
-    transcribe_whisper(args.audio, out_json=args.out)
+    import sys, json
+    if len(sys.argv) < 2:
+        print("Usage: python stt_whisper.py <audio_file>")
+        sys.exit(1)
+
+    audio_file = sys.argv[1]
+    result = transcribe_whisper(audio_file)
+    print("Transcription:", result.get("text", ""))
+    with open(audio_file.replace(".wav", "_stt.json"), "w", encoding="utf-8") as f:
+        json.dump(result, f, indent=2)

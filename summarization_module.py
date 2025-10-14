@@ -266,6 +266,17 @@ def summarize_text(input_data: Optional[str]):
     if not isinstance(text, str):
         text = str(text)
 
+    # Basic cleanup to reduce noise and repeated filler tokens before summarization
+    try:
+        # Remove repeated single-letter tokens separated by spaces or punctuation
+        import re
+        text = re.sub(r"(?:\b[a-zA-Z]\b[\s.,;:!?-]*){3,}", " ", text)
+        # Collapse multiple spaces/newlines
+        text = re.sub(r"[ \t]{2,}", " ", text)
+        text = re.sub(r"\n{3,}", "\n\n", text)
+    except Exception:
+        pass
+
     if _USE_GEMINI:
         return _gemini_summarize(text)
     return _hf_fallback_summarize(text)

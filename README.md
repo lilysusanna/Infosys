@@ -1,4 +1,4 @@
-# Live Meeting Summarizer
+# AI Live Meeting Summarizer
 
 ## Overview
 **Live Meeting Summarizer** is a real-time application that converts meeting audio into structured summaries. It captures live speech, separates speakers, and generates summaries using LLMs or Hugging Face transformers. Users can view live transcription, export summaries as Markdown/PDF, or send them via email.

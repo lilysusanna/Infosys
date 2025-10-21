@@ -8,8 +8,9 @@
             "program": "${workspaceFolder}/app.py",
             "console": "integratedTerminal",
             "env": {
-                "HUGGINGFACE_TOKEN": "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"
+                "HUGGINGFACE_TOKEN": "Your Hugging Face Api_key"
             }
         }
     ]
 }
+

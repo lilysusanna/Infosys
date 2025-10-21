@@ -1,0 +1,10 @@
+streamlit
+streamlit-webrtc
+numpy
+soundfile
+librosa
+torch
+torchaudio
+pyannote.audio
+openai
+transformers

@@ -1,0 +1,275 @@
+DER Results
+
+DER between diarized_EN2002a.wav.txt and diarized_EN2002b.wav.txt: 0.87
+DER between diarized_EN2002a.wav.txt and diarized_EN2002c.wav.txt: 0.92
+DER between diarized_EN2002a.wav.txt and diarized_EN2002d.wav.txt: 0.85
+DER between diarized_EN2002a.wav.txt and diarized_ES2004a.wav.txt: 0.81
+DER between diarized_EN2002a.wav.txt and diarized_ES2004b.wav.txt: 0.80
+DER between diarized_EN2002a.wav.txt and diarized_ES2004c.wav.txt: 0.80
+DER between diarized_EN2002a.wav.txt and diarized_ES2004d.wav.txt: 0.78
+DER between diarized_EN2002a.wav.txt and diarized_IS1009a.wav.txt: 0.78
+DER between diarized_EN2002a.wav.txt and diarized_IS1009b.wav.txt: 0.83
+DER between diarized_EN2002a.wav.txt and diarized_IS1009c.wav.txt: 0.76
+DER between diarized_EN2002a.wav.txt and diarized_IS1009d.wav.txt: 0.83
+DER between diarized_EN2002a.wav.txt and diarized_TS3003a.wav.txt: 0.71
+DER between diarized_EN2002a.wav.txt and diarized_TS3003b.wav.txt: 0.81
+DER between diarized_EN2002a.wav.txt and diarized_TS3003c.wav.txt: 0.75
+DER between diarized_EN2002a.wav.txt and diarized_TS3003d.wav.txt: 0.77
+Average DER for diarized_EN2002a.wav.txt: 0.80
+
+DER between diarized_EN2002b.wav.txt and diarized_EN2002a.wav.txt: 0.87
+DER between diarized_EN2002b.wav.txt and diarized_EN2002c.wav.txt: 0.88
+DER between diarized_EN2002b.wav.txt and diarized_EN2002d.wav.txt: 0.87
+DER between diarized_EN2002b.wav.txt and diarized_ES2004a.wav.txt: 0.83
+DER between diarized_EN2002b.wav.txt and diarized_ES2004b.wav.txt: 0.91
+DER between diarized_EN2002b.wav.txt and diarized_ES2004c.wav.txt: 0.87
+DER between diarized_EN2002b.wav.txt and diarized_ES2004d.wav.txt: 0.88
+DER between diarized_EN2002b.wav.txt and diarized_IS1009a.wav.txt: 0.78
+DER between diarized_EN2002b.wav.txt and diarized_IS1009b.wav.txt: 0.85
+DER between diarized_EN2002b.wav.txt and diarized_IS1009c.wav.txt: 0.84
+DER between diarized_EN2002b.wav.txt and diarized_IS1009d.wav.txt: 0.88
+DER between diarized_EN2002b.wav.txt and diarized_TS3003a.wav.txt: 0.87
+DER between diarized_EN2002b.wav.txt and diarized_TS3003b.wav.txt: 0.88
+DER between diarized_EN2002b.wav.txt and diarized_TS3003c.wav.txt: 0.84
+DER between diarized_EN2002b.wav.txt and diarized_TS3003d.wav.txt: 0.89
+Average DER for diarized_EN2002b.wav.txt: 0.86
+
+DER between diarized_EN2002c.wav.txt and diarized_EN2002a.wav.txt: 0.92
+DER between diarized_EN2002c.wav.txt and diarized_EN2002b.wav.txt: 0.88
+DER between diarized_EN2002c.wav.txt and diarized_EN2002d.wav.txt: 0.89
+DER between diarized_EN2002c.wav.txt and diarized_ES2004a.wav.txt: 0.92
+DER between diarized_EN2002c.wav.txt and diarized_ES2004b.wav.txt: 0.93
+DER between diarized_EN2002c.wav.txt and diarized_ES2004c.wav.txt: 0.94
+DER between diarized_EN2002c.wav.txt and diarized_ES2004d.wav.txt: 0.95
+DER between diarized_EN2002c.wav.txt and diarized_IS1009a.wav.txt: 0.92
+DER between diarized_EN2002c.wav.txt and diarized_IS1009b.wav.txt: 0.86
+DER between diarized_EN2002c.wav.txt and diarized_IS1009c.wav.txt: 0.96
+DER between diarized_EN2002c.wav.txt and diarized_IS1009d.wav.txt: 0.92
+DER between diarized_EN2002c.wav.txt and diarized_TS3003a.wav.txt: 0.86
+DER between diarized_EN2002c.wav.txt and diarized_TS3003b.wav.txt: 0.88
+DER between diarized_EN2002c.wav.txt and diarized_TS3003c.wav.txt: 0.95
+DER between diarized_EN2002c.wav.txt and diarized_TS3003d.wav.txt: 0.91
+Average DER for diarized_EN2002c.wav.txt: 0.91
+
+DER between diarized_EN2002d.wav.txt and diarized_EN2002a.wav.txt: 0.85
+DER between diarized_EN2002d.wav.txt and diarized_EN2002b.wav.txt: 0.87
+DER between diarized_EN2002d.wav.txt and diarized_EN2002c.wav.txt: 0.89
+DER between diarized_EN2002d.wav.txt and diarized_ES2004a.wav.txt: 0.84
+DER between diarized_EN2002d.wav.txt and diarized_ES2004b.wav.txt: 0.86
+DER between diarized_EN2002d.wav.txt and diarized_ES2004c.wav.txt: 0.86
+DER between diarized_EN2002d.wav.txt and diarized_ES2004d.wav.txt: 0.84
+DER between diarized_EN2002d.wav.txt and diarized_IS1009a.wav.txt: 0.85
+DER between diarized_EN2002d.wav.txt and diarized_IS1009b.wav.txt: 0.86
+DER between diarized_EN2002d.wav.txt and diarized_IS1009c.wav.txt: 0.87
+DER between diarized_EN2002d.wav.txt and diarized_IS1009d.wav.txt: 0.88
+DER between diarized_EN2002d.wav.txt and diarized_TS3003a.wav.txt: 0.82
+DER between diarized_EN2002d.wav.txt and diarized_TS3003b.wav.txt: 0.86
+DER between diarized_EN2002d.wav.txt and diarized_TS3003c.wav.txt: 0.87
+DER between diarized_EN2002d.wav.txt and diarized_TS3003d.wav.txt: 0.82
+Average DER for diarized_EN2002d.wav.txt: 0.86
+
+DER between diarized_ES2004a.wav.txt and diarized_EN2002a.wav.txt: 0.81
+DER between diarized_ES2004a.wav.txt and diarized_EN2002b.wav.txt: 0.83
+DER between diarized_ES2004a.wav.txt and diarized_EN2002c.wav.txt: 0.92
+DER between diarized_ES2004a.wav.txt and diarized_EN2002d.wav.txt: 0.84
+DER between diarized_ES2004a.wav.txt and diarized_ES2004b.wav.txt: 0.80
+DER between diarized_ES2004a.wav.txt and diarized_ES2004c.wav.txt: 0.83
+DER between diarized_ES2004a.wav.txt and diarized_ES2004d.wav.txt: 0.76
+DER between diarized_ES2004a.wav.txt and diarized_IS1009a.wav.txt: 0.82
+DER between diarized_ES2004a.wav.txt and diarized_IS1009b.wav.txt: 0.84
+DER between diarized_ES2004a.wav.txt and diarized_IS1009c.wav.txt: 0.76
+DER between diarized_ES2004a.wav.txt and diarized_IS1009d.wav.txt: 0.84
+DER between diarized_ES2004a.wav.txt and diarized_TS3003a.wav.txt: 0.75
+DER between diarized_ES2004a.wav.txt and diarized_TS3003b.wav.txt: 0.83
+DER between diarized_ES2004a.wav.txt and diarized_TS3003c.wav.txt: 0.74
+DER between diarized_ES2004a.wav.txt and diarized_TS3003d.wav.txt: 0.73
+Average DER for diarized_ES2004a.wav.txt: 0.80
+
+DER between diarized_ES2004b.wav.txt and diarized_EN2002a.wav.txt: 0.80
+DER between diarized_ES2004b.wav.txt and diarized_EN2002b.wav.txt: 0.91
+DER between diarized_ES2004b.wav.txt and diarized_EN2002c.wav.txt: 0.93
+DER between diarized_ES2004b.wav.txt and diarized_EN2002d.wav.txt: 0.86
+DER between diarized_ES2004b.wav.txt and diarized_ES2004a.wav.txt: 0.80
+DER between diarized_ES2004b.wav.txt and diarized_ES2004c.wav.txt: 0.81
+DER between diarized_ES2004b.wav.txt and diarized_ES2004d.wav.txt: 0.80
+DER between diarized_ES2004b.wav.txt and diarized_IS1009a.wav.txt: 0.82
+DER between diarized_ES2004b.wav.txt and diarized_IS1009b.wav.txt: 0.84
+DER between diarized_ES2004b.wav.txt and diarized_IS1009c.wav.txt: 0.81
+DER between diarized_ES2004b.wav.txt and diarized_IS1009d.wav.txt: 0.82
+DER between diarized_ES2004b.wav.txt and diarized_TS3003a.wav.txt: 0.83
+DER between diarized_ES2004b.wav.txt and diarized_TS3003b.wav.txt: 0.78
+DER between diarized_ES2004b.wav.txt and diarized_TS3003c.wav.txt: 0.83
+DER between diarized_ES2004b.wav.txt and diarized_TS3003d.wav.txt: 0.76
+Average DER for diarized_ES2004b.wav.txt: 0.83
+
+DER between diarized_ES2004c.wav.txt and diarized_EN2002a.wav.txt: 0.80
+DER between diarized_ES2004c.wav.txt and diarized_EN2002b.wav.txt: 0.87
+DER between diarized_ES2004c.wav.txt and diarized_EN2002c.wav.txt: 0.94
+DER between diarized_ES2004c.wav.txt and diarized_EN2002d.wav.txt: 0.86
+DER between diarized_ES2004c.wav.txt and diarized_ES2004a.wav.txt: 0.83
+DER between diarized_ES2004c.wav.txt and diarized_ES2004b.wav.txt: 0.81
+DER between diarized_ES2004c.wav.txt and diarized_ES2004d.wav.txt: 0.82
+DER between diarized_ES2004c.wav.txt and diarized_IS1009a.wav.txt: 0.81
+DER between diarized_ES2004c.wav.txt and diarized_IS1009b.wav.txt: 0.86
+DER between diarized_ES2004c.wav.txt and diarized_IS1009c.wav.txt: 0.82
+DER between diarized_ES2004c.wav.txt and diarized_IS1009d.wav.txt: 0.82
+DER between diarized_ES2004c.wav.txt and diarized_TS3003a.wav.txt: 0.76
+DER between diarized_ES2004c.wav.txt and diarized_TS3003b.wav.txt: 0.82
+DER between diarized_ES2004c.wav.txt and diarized_TS3003c.wav.txt: 0.81
+DER between diarized_ES2004c.wav.txt and diarized_TS3003d.wav.txt: 0.79
+Average DER for diarized_ES2004c.wav.txt: 0.83
+
+DER between diarized_ES2004d.wav.txt and diarized_EN2002a.wav.txt: 0.78
+DER between diarized_ES2004d.wav.txt and diarized_EN2002b.wav.txt: 0.88
+DER between diarized_ES2004d.wav.txt and diarized_EN2002c.wav.txt: 0.95
+DER between diarized_ES2004d.wav.txt and diarized_EN2002d.wav.txt: 0.84
+DER between diarized_ES2004d.wav.txt and diarized_ES2004a.wav.txt: 0.76
+DER between diarized_ES2004d.wav.txt and diarized_ES2004b.wav.txt: 0.80
+DER between diarized_ES2004d.wav.txt and diarized_ES2004c.wav.txt: 0.82
+DER between diarized_ES2004d.wav.txt and diarized_IS1009a.wav.txt: 0.81
+DER between diarized_ES2004d.wav.txt and diarized_IS1009b.wav.txt: 0.85
+DER between diarized_ES2004d.wav.txt and diarized_IS1009c.wav.txt: 0.84
+DER between diarized_ES2004d.wav.txt and diarized_IS1009d.wav.txt: 0.79
+DER between diarized_ES2004d.wav.txt and diarized_TS3003a.wav.txt: 0.76
+DER between diarized_ES2004d.wav.txt and diarized_TS3003b.wav.txt: 0.83
+DER between diarized_ES2004d.wav.txt and diarized_TS3003c.wav.txt: 0.80
+DER between diarized_ES2004d.wav.txt and diarized_TS3003d.wav.txt: 0.77
+Average DER for diarized_ES2004d.wav.txt: 0.82
+
+DER between diarized_IS1009a.wav.txt and diarized_EN2002a.wav.txt: 0.78
+DER between diarized_IS1009a.wav.txt and diarized_EN2002b.wav.txt: 0.78
+DER between diarized_IS1009a.wav.txt and diarized_EN2002c.wav.txt: 0.92
+DER between diarized_IS1009a.wav.txt and diarized_EN2002d.wav.txt: 0.85
+DER between diarized_IS1009a.wav.txt and diarized_ES2004a.wav.txt: 0.82
+DER between diarized_IS1009a.wav.txt and diarized_ES2004b.wav.txt: 0.82
+DER between diarized_IS1009a.wav.txt and diarized_ES2004c.wav.txt: 0.81
+DER between diarized_IS1009a.wav.txt and diarized_ES2004d.wav.txt: 0.81
+DER between diarized_IS1009a.wav.txt and diarized_IS1009b.wav.txt: 0.82
+DER between diarized_IS1009a.wav.txt and diarized_IS1009c.wav.txt: 0.78
+DER between diarized_IS1009a.wav.txt and diarized_IS1009d.wav.txt: 0.83
+DER between diarized_IS1009a.wav.txt and diarized_TS3003a.wav.txt: 0.73
+DER between diarized_IS1009a.wav.txt and diarized_TS3003b.wav.txt: 0.76
+DER between diarized_IS1009a.wav.txt and diarized_TS3003c.wav.txt: 0.78
+DER between diarized_IS1009a.wav.txt and diarized_TS3003d.wav.txt: 0.73
+Average DER for diarized_IS1009a.wav.txt: 0.80
+
+DER between diarized_IS1009b.wav.txt and diarized_EN2002a.wav.txt: 0.83
+DER between diarized_IS1009b.wav.txt and diarized_EN2002b.wav.txt: 0.85
+DER between diarized_IS1009b.wav.txt and diarized_EN2002c.wav.txt: 0.86
+DER between diarized_IS1009b.wav.txt and diarized_EN2002d.wav.txt: 0.86
+DER between diarized_IS1009b.wav.txt and diarized_ES2004a.wav.txt: 0.84
+DER between diarized_IS1009b.wav.txt and diarized_ES2004b.wav.txt: 0.84
+DER between diarized_IS1009b.wav.txt and diarized_ES2004c.wav.txt: 0.86
+DER between diarized_IS1009b.wav.txt and diarized_ES2004d.wav.txt: 0.85
+DER between diarized_IS1009b.wav.txt and diarized_IS1009a.wav.txt: 0.82
+DER between diarized_IS1009b.wav.txt and diarized_IS1009c.wav.txt: 0.89
+DER between diarized_IS1009b.wav.txt and diarized_IS1009d.wav.txt: 0.84
+DER between diarized_IS1009b.wav.txt and diarized_TS3003a.wav.txt: 0.85
+DER between diarized_IS1009b.wav.txt and diarized_TS3003b.wav.txt: 0.85
+DER between diarized_IS1009b.wav.txt and diarized_TS3003c.wav.txt: 0.85
+DER between diarized_IS1009b.wav.txt and diarized_TS3003d.wav.txt: 0.83
+Average DER for diarized_IS1009b.wav.txt: 0.85
+
+DER between diarized_IS1009c.wav.txt and diarized_EN2002a.wav.txt: 0.76
+DER between diarized_IS1009c.wav.txt and diarized_EN2002b.wav.txt: 0.84
+DER between diarized_IS1009c.wav.txt and diarized_EN2002c.wav.txt: 0.96
+DER between diarized_IS1009c.wav.txt and diarized_EN2002d.wav.txt: 0.87
+DER between diarized_IS1009c.wav.txt and diarized_ES2004a.wav.txt: 0.76
+DER between diarized_IS1009c.wav.txt and diarized_ES2004b.wav.txt: 0.81
+DER between diarized_IS1009c.wav.txt and diarized_ES2004c.wav.txt: 0.82
+DER between diarized_IS1009c.wav.txt and diarized_ES2004d.wav.txt: 0.84
+DER between diarized_IS1009c.wav.txt and diarized_IS1009a.wav.txt: 0.78
+DER between diarized_IS1009c.wav.txt and diarized_IS1009b.wav.txt: 0.89
+DER between diarized_IS1009c.wav.txt and diarized_IS1009d.wav.txt: 0.83
+DER between diarized_IS1009c.wav.txt and diarized_TS3003a.wav.txt: 0.83
+DER between diarized_IS1009c.wav.txt and diarized_TS3003b.wav.txt: 0.81
+DER between diarized_IS1009c.wav.txt and diarized_TS3003c.wav.txt: 0.73
+DER between diarized_IS1009c.wav.txt and diarized_TS3003d.wav.txt: 0.79
+Average DER for diarized_IS1009c.wav.txt: 0.82
+
+DER between diarized_IS1009d.wav.txt and diarized_EN2002a.wav.txt: 0.83
+DER between diarized_IS1009d.wav.txt and diarized_EN2002b.wav.txt: 0.88
+DER between diarized_IS1009d.wav.txt and diarized_EN2002c.wav.txt: 0.92
+DER between diarized_IS1009d.wav.txt and diarized_EN2002d.wav.txt: 0.88
+DER between diarized_IS1009d.wav.txt and diarized_ES2004a.wav.txt: 0.84
+DER between diarized_IS1009d.wav.txt and diarized_ES2004b.wav.txt: 0.82
+DER between diarized_IS1009d.wav.txt and diarized_ES2004c.wav.txt: 0.82
+DER between diarized_IS1009d.wav.txt and diarized_ES2004d.wav.txt: 0.79
+DER between diarized_IS1009d.wav.txt and diarized_IS1009a.wav.txt: 0.83
+DER between diarized_IS1009d.wav.txt and diarized_IS1009b.wav.txt: 0.84
+DER between diarized_IS1009d.wav.txt and diarized_IS1009c.wav.txt: 0.83
+DER between diarized_IS1009d.wav.txt and diarized_TS3003a.wav.txt: 0.87
+DER between diarized_IS1009d.wav.txt and diarized_TS3003b.wav.txt: 0.73
+DER between diarized_IS1009d.wav.txt and diarized_TS3003c.wav.txt: 0.86
+DER between diarized_IS1009d.wav.txt and diarized_TS3003d.wav.txt: 0.84
+Average DER for diarized_IS1009d.wav.txt: 0.84
+
+DER between diarized_TS3003a.wav.txt and diarized_EN2002a.wav.txt: 0.71
+DER between diarized_TS3003a.wav.txt and diarized_EN2002b.wav.txt: 0.87
+DER between diarized_TS3003a.wav.txt and diarized_EN2002c.wav.txt: 0.86
+DER between diarized_TS3003a.wav.txt and diarized_EN2002d.wav.txt: 0.82
+DER between diarized_TS3003a.wav.txt and diarized_ES2004a.wav.txt: 0.75
+DER between diarized_TS3003a.wav.txt and diarized_ES2004b.wav.txt: 0.83
+DER between diarized_TS3003a.wav.txt and diarized_ES2004c.wav.txt: 0.76
+DER between diarized_TS3003a.wav.txt and diarized_ES2004d.wav.txt: 0.76
+DER between diarized_TS3003a.wav.txt and diarized_IS1009a.wav.txt: 0.73
+DER between diarized_TS3003a.wav.txt and diarized_IS1009b.wav.txt: 0.85
+DER between diarized_TS3003a.wav.txt and diarized_IS1009c.wav.txt: 0.83
+DER between diarized_TS3003a.wav.txt and diarized_IS1009d.wav.txt: 0.87
+DER between diarized_TS3003a.wav.txt and diarized_TS3003b.wav.txt: 0.75
+DER between diarized_TS3003a.wav.txt and diarized_TS3003c.wav.txt: 0.78
+DER between diarized_TS3003a.wav.txt and diarized_TS3003d.wav.txt: 0.65
+Average DER for diarized_TS3003a.wav.txt: 0.79
+
+DER between diarized_TS3003b.wav.txt and diarized_EN2002a.wav.txt: 0.81
+DER between diarized_TS3003b.wav.txt and diarized_EN2002b.wav.txt: 0.88
+DER between diarized_TS3003b.wav.txt and diarized_EN2002c.wav.txt: 0.88
+DER between diarized_TS3003b.wav.txt and diarized_EN2002d.wav.txt: 0.86
+DER between diarized_TS3003b.wav.txt and diarized_ES2004a.wav.txt: 0.83
+DER between diarized_TS3003b.wav.txt and diarized_ES2004b.wav.txt: 0.78
+DER between diarized_TS3003b.wav.txt and diarized_ES2004c.wav.txt: 0.82
+DER between diarized_TS3003b.wav.txt and diarized_ES2004d.wav.txt: 0.83
+DER between diarized_TS3003b.wav.txt and diarized_IS1009a.wav.txt: 0.76
+DER between diarized_TS3003b.wav.txt and diarized_IS1009b.wav.txt: 0.85
+DER between diarized_TS3003b.wav.txt and diarized_IS1009c.wav.txt: 0.81
+DER between diarized_TS3003b.wav.txt and diarized_IS1009d.wav.txt: 0.73
+DER between diarized_TS3003b.wav.txt and diarized_TS3003a.wav.txt: 0.75
+DER between diarized_TS3003b.wav.txt and diarized_TS3003c.wav.txt: 0.85
+DER between diarized_TS3003b.wav.txt and diarized_TS3003d.wav.txt: 0.73
+Average DER for diarized_TS3003b.wav.txt: 0.81
+
+DER between diarized_TS3003c.wav.txt and diarized_EN2002a.wav.txt: 0.75
+DER between diarized_TS3003c.wav.txt and diarized_EN2002b.wav.txt: 0.84
+DER between diarized_TS3003c.wav.txt and diarized_EN2002c.wav.txt: 0.95
+DER between diarized_TS3003c.wav.txt and diarized_EN2002d.wav.txt: 0.87
+DER between diarized_TS3003c.wav.txt and diarized_ES2004a.wav.txt: 0.74
+DER between diarized_TS3003c.wav.txt and diarized_ES2004b.wav.txt: 0.83
+DER between diarized_TS3003c.wav.txt and diarized_ES2004c.wav.txt: 0.81
+DER between diarized_TS3003c.wav.txt and diarized_ES2004d.wav.txt: 0.80
+DER between diarized_TS3003c.wav.txt and diarized_IS1009a.wav.txt: 0.78
+DER between diarized_TS3003c.wav.txt and diarized_IS1009b.wav.txt: 0.85
+DER between diarized_TS3003c.wav.txt and diarized_IS1009c.wav.txt: 0.73
+DER between diarized_TS3003c.wav.txt and diarized_IS1009d.wav.txt: 0.86
+DER between diarized_TS3003c.wav.txt and diarized_TS3003a.wav.txt: 0.78
+DER between diarized_TS3003c.wav.txt and diarized_TS3003b.wav.txt: 0.85
+DER between diarized_TS3003c.wav.txt and diarized_TS3003d.wav.txt: 0.84
+Average DER for diarized_TS3003c.wav.txt: 0.82
+
+DER between diarized_TS3003d.wav.txt and diarized_EN2002a.wav.txt: 0.77
+DER between diarized_TS3003d.wav.txt and diarized_EN2002b.wav.txt: 0.89
+DER between diarized_TS3003d.wav.txt and diarized_EN2002c.wav.txt: 0.91
+DER between diarized_TS3003d.wav.txt and diarized_EN2002d.wav.txt: 0.82
+DER between diarized_TS3003d.wav.txt and diarized_ES2004a.wav.txt: 0.73
+DER between diarized_TS3003d.wav.txt and diarized_ES2004b.wav.txt: 0.76
+DER between diarized_TS3003d.wav.txt and diarized_ES2004c.wav.txt: 0.79
+DER between diarized_TS3003d.wav.txt and diarized_ES2004d.wav.txt: 0.77
+DER between diarized_TS3003d.wav.txt and diarized_IS1009a.wav.txt: 0.73
+DER between diarized_TS3003d.wav.txt and diarized_IS1009b.wav.txt: 0.83
+DER between diarized_TS3003d.wav.txt and diarized_IS1009c.wav.txt: 0.79
+DER between diarized_TS3003d.wav.txt and diarized_IS1009d.wav.txt: 0.84
+DER between diarized_TS3003d.wav.txt and diarized_TS3003a.wav.txt: 0.65
+DER between diarized_TS3003d.wav.txt and diarized_TS3003b.wav.txt: 0.73
+DER between diarized_TS3003d.wav.txt and diarized_TS3003c.wav.txt: 0.84
+Average DER for diarized_TS3003d.wav.txt: 0.79
+
+Overall average DER: 0.83

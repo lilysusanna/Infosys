@@ -1,0 +1,1033 @@
+[SPEAKER_05]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_05]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_05]: Let's discuss next quarter goals.
+[SPEAKER_05]: We should increase sales by 20%.
+[SPEAKER_05]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_05]: Let's discuss next quarter goals.
+[SPEAKER_05]: We should increase sales by 20%.
+[SPEAKER_04]: Budget allocation needs review.
+[SPEAKER_04]: I will prepare the report next week.
+[SPEAKER_04]: Let's discuss next quarter goals.
+[SPEAKER_05]: We should increase sales by 20%.
+[SPEAKER_05]: Budget allocation needs review.
+[SPEAKER_05]: I will prepare the report next week.
+[SPEAKER_04]: Let's discuss next quarter goals.
+[SPEAKER_03]: We should increase sales by 20%.
+[SPEAKER_05]: Budget allocation needs review.
+[SPEAKER_05]: I will prepare the report next week.
+[SPEAKER_04]: Let's discuss next quarter goals.
+[SPEAKER_04]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_00]: We should increase sales by 20%.
+[SPEAKER_00]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_04]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_04]: Budget allocation needs review.
+[SPEAKER_04]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_00]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_00]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_00]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_00]: We should increase sales by 20%.
+[SPEAKER_03]: Budget allocation needs review.
+[SPEAKER_00]: I will prepare the report next week.
+[SPEAKER_03]: Let's discuss next quarter goals.
+[SPEAKER_04]: We should increase sales by 20%.
+[SPEAKER_00]: Budget allocation needs review.
+[SPEAKER_05]: I will prepare the report next week.
+[SPEAKER_04]: Let's discuss next quarter goals.
+[SPEAKER_05]: We should increase sales by 20%.
+[SPEAKER_04]: Budget allocation needs review.
+[SPEAKER_05]: I will prepare the report next week.
+[SPEAKER_00]: Let's discuss next quarter goals.
+[SPEAKER_05]: We should increase sales by 20%.
+[SPEAKER_04]: Budget allocation needs review.
+[SPEAKER_05]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_00]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_00]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_02]: Let's discuss next quarter goals.
+[SPEAKER_04]: We should increase sales by 20%.
+[SPEAKER_02]: Budget allocation needs review.
+[SPEAKER_04]: I will prepare the report next week.
+[SPEAKER_02]: Let's discuss next quarter goals.
+[SPEAKER_00]: We should increase sales by 20%.
+[SPEAKER_04]: Budget allocation needs review.
+[SPEAKER_00]: I will prepare the report next week.
+[SPEAKER_02]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_02]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_02]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_02]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_02]: Let's discuss next quarter goals.
+[SPEAKER_04]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_03]: I will prepare the report next week.
+[SPEAKER_00]: Let's discuss next quarter goals.
+[SPEAKER_03]: We should increase sales by 20%.
+[SPEAKER_03]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_03]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_05]: Budget allocation needs review.
+[SPEAKER_03]: I will prepare the report next week.
+[SPEAKER_02]: Let's discuss next quarter goals.
+[SPEAKER_03]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_02]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_02]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_02]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_02]: I will prepare the report next week.
+[SPEAKER_02]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_02]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_03]: Let's discuss next quarter goals.
+[SPEAKER_02]: We should increase sales by 20%.
+[SPEAKER_02]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_02]: We should increase sales by 20%.
+[SPEAKER_00]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_00]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_02]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_03]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_03]: I will prepare the report next week.
+[SPEAKER_03]: Let's discuss next quarter goals.
+[SPEAKER_04]: We should increase sales by 20%.
+[SPEAKER_04]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_02]: We should increase sales by 20%.
+[SPEAKER_04]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_04]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_02]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_02]: We should increase sales by 20%.
+[SPEAKER_02]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_02]: Let's discuss next quarter goals.
+[SPEAKER_02]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_02]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_05]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_02]: We should increase sales by 20%.
+[SPEAKER_02]: Budget allocation needs review.
+[SPEAKER_04]: I will prepare the report next week.
+[SPEAKER_02]: Let's discuss next quarter goals.
+[SPEAKER_04]: We should increase sales by 20%.
+[SPEAKER_02]: Budget allocation needs review.
+[SPEAKER_04]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_03]: Budget allocation needs review.
+[SPEAKER_03]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_04]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_02]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_02]: We should increase sales by 20%.
+[SPEAKER_04]: Budget allocation needs review.
+[SPEAKER_03]: I will prepare the report next week.
+[SPEAKER_03]: Let's discuss next quarter goals.
+[SPEAKER_04]: We should increase sales by 20%.
+[SPEAKER_03]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_02]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_00]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_00]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_02]: Let's discuss next quarter goals.
+[SPEAKER_00]: We should increase sales by 20%.
+[SPEAKER_03]: Budget allocation needs review.
+[SPEAKER_03]: I will prepare the report next week.
+[SPEAKER_02]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_02]: Budget allocation needs review.
+[SPEAKER_00]: I will prepare the report next week.
+[SPEAKER_00]: Let's discuss next quarter goals.
+[SPEAKER_00]: We should increase sales by 20%.
+[SPEAKER_04]: Budget allocation needs review.
+[SPEAKER_00]: I will prepare the report next week.
+[SPEAKER_03]: Let's discuss next quarter goals.
+[SPEAKER_04]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_03]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_02]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_02]: Let's discuss next quarter goals.
+[SPEAKER_04]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_00]: I will prepare the report next week.
+[SPEAKER_02]: Let's discuss next quarter goals.
+[SPEAKER_04]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_02]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_02]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_02]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_02]: Let's discuss next quarter goals.
+[SPEAKER_02]: We should increase sales by 20%.
+[SPEAKER_03]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_02]: Let's discuss next quarter goals.
+[SPEAKER_00]: We should increase sales by 20%.
+[SPEAKER_00]: Budget allocation needs review.
+[SPEAKER_03]: I will prepare the report next week.
+[SPEAKER_04]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_04]: I will prepare the report next week.
+[SPEAKER_05]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_05]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_05]: I will prepare the report next week.
+[SPEAKER_05]: Let's discuss next quarter goals.
+[SPEAKER_03]: We should increase sales by 20%.
+[SPEAKER_05]: Budget allocation needs review.
+[SPEAKER_03]: I will prepare the report next week.
+[SPEAKER_05]: Let's discuss next quarter goals.
+[SPEAKER_03]: We should increase sales by 20%.
+[SPEAKER_03]: Budget allocation needs review.
+[SPEAKER_03]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_02]: I will prepare the report next week.
+[SPEAKER_02]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_04]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_04]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_04]: Let's discuss next quarter goals.
+[SPEAKER_02]: We should increase sales by 20%.
+[SPEAKER_04]: Budget allocation needs review.
+[SPEAKER_02]: I will prepare the report next week.
+[SPEAKER_00]: Let's discuss next quarter goals.
+[SPEAKER_03]: We should increase sales by 20%.
+[SPEAKER_00]: Budget allocation needs review.
+[SPEAKER_04]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_00]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_03]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_03]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_02]: Budget allocation needs review.
+[SPEAKER_02]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_02]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_00]: Let's discuss next quarter goals.
+[SPEAKER_00]: We should increase sales by 20%.
+[SPEAKER_00]: Budget allocation needs review.
+[SPEAKER_00]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_02]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_02]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_02]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_02]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_02]: Let's discuss next quarter goals.
+[SPEAKER_02]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_02]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_02]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_02]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_02]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_02]: I will prepare the report next week.
+[SPEAKER_02]: Let's discuss next quarter goals.
+[SPEAKER_02]: We should increase sales by 20%.
+[SPEAKER_02]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_04]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_02]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_04]: Budget allocation needs review.
+[SPEAKER_02]: I will prepare the report next week.
+[SPEAKER_04]: Let's discuss next quarter goals.
+[SPEAKER_02]: We should increase sales by 20%.
+[SPEAKER_02]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_04]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_04]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_00]: We should increase sales by 20%.
+[SPEAKER_02]: Budget allocation needs review.
+[SPEAKER_04]: I will prepare the report next week.
+[SPEAKER_00]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_05]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_00]: Let's discuss next quarter goals.
+[SPEAKER_05]: We should increase sales by 20%.
+[SPEAKER_03]: Budget allocation needs review.
+[SPEAKER_00]: I will prepare the report next week.
+[SPEAKER_03]: Let's discuss next quarter goals.
+[SPEAKER_05]: We should increase sales by 20%.
+[SPEAKER_00]: Budget allocation needs review.
+[SPEAKER_05]: I will prepare the report next week.
+[SPEAKER_00]: Let's discuss next quarter goals.
+[SPEAKER_05]: We should increase sales by 20%.
+[SPEAKER_00]: Budget allocation needs review.
+[SPEAKER_05]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_05]: We should increase sales by 20%.
+[SPEAKER_00]: Budget allocation needs review.
+[SPEAKER_00]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_05]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_04]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_02]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_04]: Budget allocation needs review.
+[SPEAKER_04]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_04]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_04]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_04]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_02]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_04]: Budget allocation needs review.
+[SPEAKER_04]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_02]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_02]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_02]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_05]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_05]: We should increase sales by 20%.
+[SPEAKER_02]: Budget allocation needs review.
+[SPEAKER_05]: I will prepare the report next week.
+[SPEAKER_05]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_02]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_05]: Let's discuss next quarter goals.
+[SPEAKER_03]: We should increase sales by 20%.
+[SPEAKER_03]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_02]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_02]: Budget allocation needs review.
+[SPEAKER_03]: I will prepare the report next week.
+[SPEAKER_02]: Let's discuss next quarter goals.
+[SPEAKER_03]: We should increase sales by 20%.
+[SPEAKER_02]: Budget allocation needs review.
+[SPEAKER_03]: I will prepare the report next week.
+[SPEAKER_02]: Let's discuss next quarter goals.
+[SPEAKER_02]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_02]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_02]: Let's discuss next quarter goals.
+[SPEAKER_02]: We should increase sales by 20%.
+[SPEAKER_02]: Budget allocation needs review.
+[SPEAKER_05]: I will prepare the report next week.
+[SPEAKER_02]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_05]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_04]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_00]: I will prepare the report next week.
+[SPEAKER_00]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_05]: Budget allocation needs review.
+[SPEAKER_05]: I will prepare the report next week.
+[SPEAKER_05]: Let's discuss next quarter goals.
+[SPEAKER_05]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_00]: Let's discuss next quarter goals.
+[SPEAKER_05]: We should increase sales by 20%.
+[SPEAKER_05]: Budget allocation needs review.
+[SPEAKER_05]: I will prepare the report next week.
+[SPEAKER_05]: Let's discuss next quarter goals.
+[SPEAKER_05]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_02]: I will prepare the report next week.
+[SPEAKER_05]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_02]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_02]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_02]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_05]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_05]: I will prepare the report next week.
+[SPEAKER_05]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_05]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_05]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_05]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_03]: I will prepare the report next week.
+[SPEAKER_02]: Let's discuss next quarter goals.
+[SPEAKER_02]: We should increase sales by 20%.
+[SPEAKER_02]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_02]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_02]: I will prepare the report next week.
+[SPEAKER_02]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_04]: Let's discuss next quarter goals.
+[SPEAKER_02]: We should increase sales by 20%.
+[SPEAKER_00]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_04]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_04]: We should increase sales by 20%.
+[SPEAKER_02]: Budget allocation needs review.
+[SPEAKER_03]: I will prepare the report next week.
+[SPEAKER_04]: Let's discuss next quarter goals.
+[SPEAKER_03]: We should increase sales by 20%.
+[SPEAKER_02]: Budget allocation needs review.
+[SPEAKER_02]: I will prepare the report next week.
+[SPEAKER_04]: Let's discuss next quarter goals.
+[SPEAKER_02]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_04]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_04]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_00]: We should increase sales by 20%.
+[SPEAKER_00]: Budget allocation needs review.
+[SPEAKER_04]: I will prepare the report next week.
+[SPEAKER_05]: Let's discuss next quarter goals.
+[SPEAKER_04]: We should increase sales by 20%.
+[SPEAKER_00]: Budget allocation needs review.
+[SPEAKER_04]: I will prepare the report next week.
+[SPEAKER_00]: Let's discuss next quarter goals.
+[SPEAKER_04]: We should increase sales by 20%.
+[SPEAKER_04]: Budget allocation needs review.
+[SPEAKER_00]: I will prepare the report next week.
+[SPEAKER_05]: Let's discuss next quarter goals.
+[SPEAKER_05]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_05]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_05]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_05]: Let's discuss next quarter goals.
+[SPEAKER_05]: We should increase sales by 20%.
+[SPEAKER_05]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_05]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_00]: Budget allocation needs review.
+[SPEAKER_04]: I will prepare the report next week.
+[SPEAKER_04]: Let's discuss next quarter goals.
+[SPEAKER_05]: We should increase sales by 20%.
+[SPEAKER_04]: Budget allocation needs review.
+[SPEAKER_05]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_05]: We should increase sales by 20%.
+[SPEAKER_05]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_05]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_05]: Budget allocation needs review.
+[SPEAKER_04]: I will prepare the report next week.
+[SPEAKER_05]: Let's discuss next quarter goals.
+[SPEAKER_04]: We should increase sales by 20%.
+[SPEAKER_05]: Budget allocation needs review.
+[SPEAKER_04]: I will prepare the report next week.
+[SPEAKER_05]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_04]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_02]: Let's discuss next quarter goals.
+[SPEAKER_04]: We should increase sales by 20%.
+[SPEAKER_02]: Budget allocation needs review.
+[SPEAKER_04]: I will prepare the report next week.
+[SPEAKER_02]: Let's discuss next quarter goals.
+[SPEAKER_02]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_02]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_02]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_04]: I will prepare the report next week.
+[SPEAKER_05]: Let's discuss next quarter goals.
+[SPEAKER_04]: We should increase sales by 20%.
+[SPEAKER_05]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_02]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_02]: Budget allocation needs review.
+[SPEAKER_05]: I will prepare the report next week.
+[SPEAKER_05]: Let's discuss next quarter goals.
+[SPEAKER_02]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_02]: I will prepare the report next week.
+[SPEAKER_05]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_05]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_02]: Budget allocation needs review.
+[SPEAKER_04]: I will prepare the report next week.
+[SPEAKER_05]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_05]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_05]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_04]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_04]: I will prepare the report next week.
+[SPEAKER_04]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_05]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_05]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_05]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_05]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_00]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_02]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_02]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_02]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_03]: Budget allocation needs review.
+[SPEAKER_00]: I will prepare the report next week.
+[SPEAKER_00]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_03]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_04]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_02]: I will prepare the report next week.
+[SPEAKER_04]: Let's discuss next quarter goals.
+[SPEAKER_03]: We should increase sales by 20%.
+[SPEAKER_05]: Budget allocation needs review.
+[SPEAKER_03]: I will prepare the report next week.
+[SPEAKER_04]: Let's discuss next quarter goals.
+[SPEAKER_03]: We should increase sales by 20%.
+[SPEAKER_04]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_04]: Let's discuss next quarter goals.
+[SPEAKER_05]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_00]: I will prepare the report next week.
+[SPEAKER_00]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_00]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_00]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_00]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_00]: Budget allocation needs review.
+[SPEAKER_04]: I will prepare the report next week.
+[SPEAKER_00]: Let's discuss next quarter goals.
+[SPEAKER_04]: We should increase sales by 20%.
+[SPEAKER_05]: Budget allocation needs review.
+[SPEAKER_04]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_05]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_05]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_05]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_02]: I will prepare the report next week.
+[SPEAKER_05]: Let's discuss next quarter goals.
+[SPEAKER_04]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_05]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_05]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_00]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_00]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_00]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_00]: We should increase sales by 20%.
+[SPEAKER_02]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_02]: We should increase sales by 20%.
+[SPEAKER_02]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_02]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_02]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_02]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_02]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_05]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_00]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_05]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_05]: Let's discuss next quarter goals.
+[SPEAKER_04]: We should increase sales by 20%.
+[SPEAKER_03]: Budget allocation needs review.
+[SPEAKER_02]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_02]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_02]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_02]: Budget allocation needs review.
+[SPEAKER_03]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_05]: We should increase sales by 20%.
+[SPEAKER_00]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_00]: Let's discuss next quarter goals.
+[SPEAKER_05]: We should increase sales by 20%.
+[SPEAKER_05]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_03]: Let's discuss next quarter goals.
+[SPEAKER_05]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_05]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_04]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_05]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_05]: We should increase sales by 20%.
+[SPEAKER_00]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_05]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_05]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_05]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_00]: I will prepare the report next week.
+[SPEAKER_04]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_04]: Budget allocation needs review.
+[SPEAKER_05]: I will prepare the report next week.
+[SPEAKER_04]: Let's discuss next quarter goals.
+[SPEAKER_05]: We should increase sales by 20%.
+[SPEAKER_04]: Budget allocation needs review.
+[SPEAKER_05]: I will prepare the report next week.
+[SPEAKER_04]: Let's discuss next quarter goals.
+[SPEAKER_05]: We should increase sales by 20%.
+[SPEAKER_04]: Budget allocation needs review.
+[SPEAKER_05]: I will prepare the report next week.
+[SPEAKER_05]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_05]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_05]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_05]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_05]: We should increase sales by 20%.
+[SPEAKER_05]: Budget allocation needs review.
+[SPEAKER_05]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_05]: We should increase sales by 20%.
+[SPEAKER_05]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_00]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_05]: I will prepare the report next week.
+[SPEAKER_05]: Let's discuss next quarter goals.
+[SPEAKER_05]: We should increase sales by 20%.
+[SPEAKER_05]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_00]: We should increase sales by 20%.
+[SPEAKER_00]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_00]: Let's discuss next quarter goals.
+[SPEAKER_00]: We should increase sales by 20%.
+[SPEAKER_00]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_00]: Let's discuss next quarter goals.
+[SPEAKER_00]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_04]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_04]: I will prepare the report next week.
+[SPEAKER_04]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_04]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_04]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_05]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_05]: I will prepare the report next week.
+[SPEAKER_00]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_00]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_00]: We should increase sales by 20%.
+[SPEAKER_04]: Budget allocation needs review.
+[SPEAKER_00]: I will prepare the report next week.
+[SPEAKER_00]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_06]: Budget allocation needs review.
+[SPEAKER_04]: I will prepare the report next week.
+[SPEAKER_06]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_05]: Budget allocation needs review.
+[SPEAKER_02]: I will prepare the report next week.
+[SPEAKER_05]: Let's discuss next quarter goals.
+[SPEAKER_05]: We should increase sales by 20%.
+[SPEAKER_02]: Budget allocation needs review.
+[SPEAKER_02]: I will prepare the report next week.
+[SPEAKER_05]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_04]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_06]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_04]: Budget allocation needs review.
+[SPEAKER_04]: I will prepare the report next week.
+[SPEAKER_00]: Let's discuss next quarter goals.
+[SPEAKER_06]: We should increase sales by 20%.
+[SPEAKER_02]: Budget allocation needs review.
+[SPEAKER_02]: I will prepare the report next week.
+[SPEAKER_02]: Let's discuss next quarter goals.
+[SPEAKER_02]: We should increase sales by 20%.
+[SPEAKER_02]: Budget allocation needs review.
+[SPEAKER_02]: I will prepare the report next week.
+[SPEAKER_02]: Let's discuss next quarter goals.
+[SPEAKER_05]: We should increase sales by 20%.
+[SPEAKER_02]: Budget allocation needs review.
+[SPEAKER_05]: I will prepare the report next week.
+[SPEAKER_05]: Let's discuss next quarter goals.
+[SPEAKER_04]: We should increase sales by 20%.
+[SPEAKER_05]: Budget allocation needs review.
+[SPEAKER_04]: I will prepare the report next week.
+[SPEAKER_05]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_05]: I will prepare the report next week.
+[SPEAKER_02]: Let's discuss next quarter goals.
+[SPEAKER_00]: We should increase sales by 20%.
+[SPEAKER_05]: Budget allocation needs review.
+[SPEAKER_02]: I will prepare the report next week.
+[SPEAKER_02]: Let's discuss next quarter goals.
+[SPEAKER_01]: We should increase sales by 20%.
+[SPEAKER_03]: Budget allocation needs review.
+[SPEAKER_02]: I will prepare the report next week.
+[SPEAKER_03]: Let's discuss next quarter goals.
+[SPEAKER_02]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_01]: I will prepare the report next week.
+[SPEAKER_02]: Let's discuss next quarter goals.
+[SPEAKER_02]: We should increase sales by 20%.
+[SPEAKER_04]: Budget allocation needs review.
+[SPEAKER_02]: I will prepare the report next week.
+[SPEAKER_02]: Let's discuss next quarter goals.
+[SPEAKER_02]: We should increase sales by 20%.
+[SPEAKER_05]: Budget allocation needs review.
+[SPEAKER_04]: I will prepare the report next week.
+[SPEAKER_04]: Let's discuss next quarter goals.
+[SPEAKER_05]: We should increase sales by 20%.
+[SPEAKER_05]: Budget allocation needs review.
+[SPEAKER_02]: I will prepare the report next week.
+[SPEAKER_05]: Let's discuss next quarter goals.
+[SPEAKER_02]: We should increase sales by 20%.
+[SPEAKER_01]: Budget allocation needs review.
+[SPEAKER_05]: I will prepare the report next week.
+[SPEAKER_01]: Let's discuss next quarter goals.
+[SPEAKER_05]: We should increase sales by 20%.
+[SPEAKER_05]: Budget allocation needs review.
+[SPEAKER_05]: I will prepare the report next week.
+[SPEAKER_04]: Let's discuss next quarter goals.

@@ -1,8 +1,0 @@
-streamlit
-openai-whisper
-pyannote.audio
-transformers
-torch
-torchaudio
-librosa
-soundfile

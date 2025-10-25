@@ -13,13 +13,13 @@ Below are screenshots showing the workflow of the notebook:
 
 <table>
   <tr>
-    <td><img src="images/screenshot1.png" width="250"></td>
-    <td><img src="images/screenshot2.png" width="250"></td>
-    <td><img src="images/screenshot3.png" width="250"></td>
+    <td><img src="screenshot1.png" width="250"></td>
+    <td><img src="screenshot2.png" width="250"></td>
+    <td><img src="screenshot3.png" width="250"></td>
   </tr>
   <tr>
-    <td><img src="images/screenshot4.png" width="250"></td>
-    <td><img src="images/screenshot5.png" width="250"></td>
+    <td><img src="screenshot4.png" width="250"></td>
+    <td><img src="screenshot5.png" width="250"></td>
     <td></td>
   </tr>
 </table>
@@ -63,7 +63,6 @@ Ai_Meeting_Summarizer/
 │
 ├── Ai_Meeting_Summarizer.ipynb # Main notebook
 ├── README.md # Project documentation
-├── images/ # Screenshots folder
 │ ├── screenshot1.png
 │ ├── screenshot2.png
 │ ├── screenshot3.png

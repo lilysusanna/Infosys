@@ -1,0 +1,9 @@
+🎙 FINAL TRANSCRIPT (Speaker-wise)
+29.0s–30.0s: SPEAKER_03 →  She's gonna answer me.
+30.0s–32.0s: SPEAKER_03 →  Yeah, I've got both of them.
+
+📌 MEETING SUMMARY
+"She's gonna answer me. Yeah, I've got both of them. She's gonna answers me," he says. "I've got them both."
+
+📊 ROUGE RESULTS
+{'rouge1': np.float64(0.0), 'rouge2': np.float64(0.0), 'rougeL': np.float64(0.0), 'rougeLsum': np.float64(0.0)}
